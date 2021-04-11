@@ -18,7 +18,7 @@
 
 <hr>
 
-### Executar a aplicação na sua máquina:
+### Execute a aplicação na sua máquina:
 
 #### Clone este repositório 
 >`git clone https://github.com/flavicon/carrinho-de-compras-reactjs.git`
